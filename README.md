@@ -1,7 +1,11 @@
-# 👋 Hi, I'm Gary Orsargos
+# 👋 Hi, I'm Gary
 
 ## 🚀 About Me
-I'm a passionate software engineer with a drive to build innovative solutions and make a positive impact through technology. I believe in writing clean, efficient code and continuously learning new technologies to stay at the forefront of software development.
+I'm a Computer Science major at UCF with a passion for building scalable software solutions. With experience in both public enterprises and defense sectors, I specialize in automation testing, machine learning, and DevOps practices. I'm dedicated to creating high-quality, efficient systems that solve real-world problems.
+
+## 🔥 Recent Projects
+- [Carver Matrix](https://github.com/garyorsargos/carver-matrix) - Led the development of a containerized web application for U.S. Army Special Operations Command, digitizing the CARVER protocol to automate target defense rankings and save hours of coordination time.
+- [Pegasus Parking](https://github.com/garyorsargos/pegasus-parking) - Built a location-based platform enabling UCF students to locate parking spaces according to their permits, featuring real-time availability through RESTful APIs.
 
 ## 💻 Tech Stack
 
@@ -19,14 +23,17 @@ I'm a passionate software engineer with a drive to build innovative solutions an
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 - Data analysis and processing for insights and automation
+- Training and integrating AI models for advanced system analysis
 
 ### DevOps
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </div>
 - Creating scalable, containerized solutions for projects
 - Implementing CI/CD pipelines for automated testing and deployment
+- Cloud architecture and security implementation
 
 ## 🌱 Currently Learning
 
@@ -45,10 +52,6 @@ I'm a passionate software engineer with a drive to build innovative solutions an
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=garyorsargos&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
-## 🔥 Recent Projects
-- [Carver Matrix](https://github.com/garyorsargos/carver-matrix) - A new data solution for target prioritization, built in partnership with the United States Army Special Operations Command (SOCOM).
-- [Pegasus Parking](https://github.com/garyorsargos/pegasus-parking) - Full-Stack application built to help UCF students find parking easier, based on their permits and destination.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gary-orsargos-316210261/)
