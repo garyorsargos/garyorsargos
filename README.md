@@ -6,17 +6,27 @@ I'm a passionate software engineer with a drive to build innovative solutions an
 ## 💻 Tech Stack
 
 ### TypeScript Ecosystem
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
 - **React**: Building modern, responsive web applications with TypeScript for type safety and better developer experience
 - **Node.js**: Rapidly deploying full-stack applications and services with robust backend solutions
 
 ### Python
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
 - Data analysis and processing for insights and automation
 
 ### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+</div>
 - Creating scalable, containerized solutions for projects
+- Implementing CI/CD pipelines for automated testing and deployment
 
 ## 🌱 Currently Learning
 - Advanced system design patterns
