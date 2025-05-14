@@ -4,6 +4,7 @@
 I'm a senior Computer Science major at the University of Central Florida with passion and experience for building scalable and globally deployable software. I specialize in developing end-to-end test suites, and DevOps capabilities like continuous integration pipelines and containerizing/scaling deployments of global applications.
 
 ## 🔥 Recent Projects
+- [KarmaKit](https://github.com/garyorsargos/KarmaKit) - A flexible, extensible user reputation and trust system for Node.js applications. It tracks user actions, updates scores, manages trust levels, and provides event logging and rate limiting features.
 - [Carver Matrix](https://github.com/garyorsargos/carver-matrix) - Led the development of a containerized web application for U.S. Army Special Operations Command, digitizing the CARVER protocol to automate target defense rankings and save hours of coordination time.
 - [Pegasus Parking](https://github.com/garyorsargos/pegasus-parking) - Built a location-based platform enabling UCF students to locate parking spaces according to their permits, featuring real-time availability through RESTful APIs.
 
