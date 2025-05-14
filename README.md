@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gary
 
 ## 🚀 About Me
-I'm a Computer Science major at UCF with a passion for building scalable software solutions. With experience in both public enterprises and defense sectors, I specialize in automation testing, machine learning, and DevOps practices. I'm dedicated to creating high-quality, efficient systems that solve real-world problems.
+I'm a senior Computer Science major at the University of Central Florida with passion and experience for building scalable and globally deployable software. I specialize in developing end-to-end test suites, and DevOps capabilities like continuous integration pipelines and containerizing/scaling deployments of global applications.
 
 ## 🔥 Recent Projects
 - [Carver Matrix](https://github.com/garyorsargos/carver-matrix) - Led the development of a containerized web application for U.S. Army Special Operations Command, digitizing the CARVER protocol to automate target defense rankings and save hours of coordination time.
@@ -40,7 +40,7 @@ I'm a Computer Science major at UCF with a passion for building scalable softwar
 - Cloud architecture and continuous deployment
 - Data science and research methods through the DARTS program (Data-Enabled Research Training and Development Sprints)
   - 12-week intensive research training at UCF
-  - Focus on Python/R, data science, and interdisciplinary research
+  - Focus on Python, data science, and interdisciplinary research
   - Working with high-quality datasets in scientific domains
   - Developing skills in Git, LaTeX, and Jupyter Notebooks
 
