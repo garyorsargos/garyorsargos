@@ -44,15 +44,6 @@ I'm a senior Computer Science major at the University of Central Florida with pa
   - Working with high-quality datasets in scientific domains
   - Developing skills in Git, LaTeX, and Jupyter Notebooks
 
-## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garyorsargos&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=garyorsargos&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gary-orsargos-316210261/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gary.orsargos.iii@gmail.com)
